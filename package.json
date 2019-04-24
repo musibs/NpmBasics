@@ -1,0 +1,19 @@
+{
+  "name": "operahs",
+  "version": "1.0.0",
+  "description": "This is a sample packge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musibs/NpmBasics.git"
+  },
+  "author": "Somnath Musib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/musibs/NpmBasics/issues"
+  },
+  "homepage": "https://github.com/musibs/NpmBasics#readme"
+}
